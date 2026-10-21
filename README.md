@@ -1,1 +1,0 @@
-# Group03_EuroSAT_CSE475
